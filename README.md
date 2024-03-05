@@ -9,3 +9,7 @@ Używamy zbioru danych "LHQ 1024", który zawiera 90,000 wysokiej rozdzielczośc
 ![Przegląd dataset'u](figures/dataset.png)
 
 Więcej informacji o zbiorze danych można znaleźć na stronie [Kaggle LHQ 1024](https://www.kaggle.com/datasets/dimensi0n/lhq-1024/data).
+
+## Wyniki
+Przykładowe wyniki modelu
+![Wyniki](figures/screenshot-1.png)
